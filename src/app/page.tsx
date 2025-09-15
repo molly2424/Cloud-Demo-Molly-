@@ -37,6 +37,9 @@ export default function Home() {
             Welcome to Webflow Cloud
           </h1>
           <Block tag="p" className="margin-bottom-24px">
+            Why don't programmers like nature? It has too many bugs! 🐛
+          </Block>
+          <Block tag="p" className="margin-bottom-24px" style={{ fontSize: "0.9rem", color: "#666" }}>
             This is a simple test using Basic components with enhanced styling.
           </Block>
           <div style={{ marginTop: "12px" }}>
